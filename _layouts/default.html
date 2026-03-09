@@ -16,7 +16,12 @@
 
     <hr>
     <footer>
-      <p><small>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}{% if site.author.email %} &mdash; <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>{% endif %}</small></p>
+      <p><small>{{ site.time | date: '%Y' }} {{ site.author.name }}{% if site.author.email %} &mdash; <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>{% endif %}
+      <br>
+      This work is licensed under a
+      <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+      Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+      </small></p>
     </footer>
   </div>
 </body>
