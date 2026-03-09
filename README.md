@@ -9,9 +9,3 @@ Workshop materials for the ["Next year, you're the speaker!"](https://www.booste
 [Upcoming CFPs](docs/2026-cfps.md)
 
 Slides will be published here after the workshop.
-
----
-
-2026-12-12, André Heie Vik (andrev@fidrildi.com)
-
-Feel free to reuse the materials, but make sure to give credit (license [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/))
