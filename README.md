@@ -8,4 +8,5 @@ Workshop materials for the ["Next year, you're the speaker!"](https://www.booste
 
 [Upcoming CFPs](docs/2026-cfps.md)
 
-Workshop slides will be published here after the workshop.
+[Slides from the Booster 2026 workshop (pdf)](docs/speaker-workshop-slides-20250312.pdf)
+
