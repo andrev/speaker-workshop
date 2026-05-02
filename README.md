@@ -10,3 +10,4 @@ Workshop materials for the ["Next year, you're the speaker!"](https://www.booste
 
 [Slides from the Booster 2026 workshop (pdf)](docs/speaker-workshop-slides-20250312.pdf)
 
+Addendum: a brilliant post by Einar Høst [about finding what to say, and why you probably need to think some more](https://einarwh.no/blog/2026/04/29/what-to-say/).
